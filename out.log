@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.14
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf /homes/users/avalenzuela/scratch/PhD_EvoGenomics/1st_year/InfecPleiotropies_Apr2019/data/RAW_PROJECT/tests/PairPleiotropies/data/VCF_1000G/ALL.wgs.phase3_shapeit2_mvncall_integrated_v5b.20130502.sites.vcf.gz
+	--keep /homes/users/avalenzuela/scratch/PhD_EvoGenomics/1st_year/InfecPleiotropies_Apr2019/data/RAW_PROJECT/tests/PairPleiotropies/data/VCF_1000G/CEUlist.txt
+	--recode
+	--stdout
+
+Using zlib version: 1.2.3
+Versions of zlib >= 1.2.4 will be *much* faster when reading zipped VCF files.
+Keeping individuals in 'keep' list
+After filtering, kept 0 out of 0 Individuals
+Outputting VCF file...
